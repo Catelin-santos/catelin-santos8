@@ -30,11 +30,17 @@
 	<meta charset="utf-8">
 	  </head>
 	  <body bgcolor="#FFB3E6">
+    <html lang="en">
+	  <head>
+	    <meta charset="utf-8">
+	    <title>About Me</title>
+	  </head>
+	  <body bgcolor="#FFB3E6">
+    <a href="index.html">Home</a>
+    <a href="portfolio.html">Portfolio</a>
+    <a href="aboutme.html">About Me</a>
     <center>
     <h1>This is my family!</h1>
-    <h2>   Me and my parents</h2>
-     <img src="images/family.jpeg" height="300">
-    </center>
-    </a>
-	  </body>
+  <img src="family.jpeg" height="300">
+</center>
 	</html>
