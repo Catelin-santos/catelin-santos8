@@ -1,6 +1,7 @@
 <html lang="en">
         <head>
         <meta charset="utf-8">
+        <title>Home</title>
         </head>
         <body bgcolor="#8E3A59">
     <a href="home.html">Home</a>
