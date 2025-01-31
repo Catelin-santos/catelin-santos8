@@ -6,7 +6,7 @@
     <a href="home.html">Home</a>
     <a href="portfolio.html">Portfolio</a>
     <a href="aboutme.html">About Me</a>
-        <center style="background-color: rose quartz;">
+        <center style="background-color: hot pink;">
           <h1>Home</h1>
           <img src="house.jfif" height="400" class="aligncenter">
           <h2>Pool House</h2>
