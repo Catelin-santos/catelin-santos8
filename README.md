@@ -2,14 +2,11 @@
         <head>
         <meta charset="utf-8">
         </head>
-        <body bgcolor="#8E3A59">
+        <body bgcolor="#DA70D6">
     <a href="home.html">Home</a>
     <a href="portfolio.html">Portfolio</a>
     <a href="aboutme.html">About Me</a>
-         <font color="#2A3439">Home</font>
-         <font color="#2A3439">Portfolio</font>
-         <font color="#2A3439">About Me</font>
-        <center style="background-color: #800080;">
+        <center style="background-color: #DA70D6;">
           <h1>Home</h1>
           <img src="house.jfif" height="400" class="aligncenter">
           <h2>Pool House</h2>
